@@ -1,0 +1,27 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+/*  avatar_image */
+
+
+.custom-card-image
+{
+    position: relative;
+}
+
+.custom-card-image  .card.image-full{
+    /* position: absolute; */
+}
+.custom-card-image  .card.image-full::before{
+    opacity: 0.45;
+    border-radius: 10px;
+    overflow: hidden;
+
+
+}
+
+
