@@ -2,7 +2,7 @@
   "name": "git-finder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/07kunal/Git-Finder",
+  "homepage": "https://github.com/07kunal/gitFinder",
   "dependencies": {
     "@craco/craco": "^7.0.0",
     "@testing-library/jest-dom": "^5.16.4",
